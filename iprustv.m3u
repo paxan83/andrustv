@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 #EXTINF:-1 group-title="International",Первый канал Европа
-#EXTVLCOPT:http-referrer=https://1tv.live/
-https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b5128000_slru.m3u8?hls_proxy_host=6629500d2dbfd5d4bb54110b620706c6
+http://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:-1 group-title="International",Победа
 #EXTVLCOPT:http-referrer=https://pobeda.tv/
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8?hls_proxy_host=6629500d2dbfd5d4bb54110b620706c6
