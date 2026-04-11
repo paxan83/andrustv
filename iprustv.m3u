@@ -18,5 +18,7 @@ https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd315
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="International",Сибирь 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
+#EXTINF:-1 group-title="International",SPECIAL SELECT 1
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:A0:E6:D9&stream=554946&extension=ts&play_token=dzT4KKmWMR
 
 
