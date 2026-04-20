@@ -42,6 +42,8 @@ http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:A0:E6:D9&stream=824553&extensio
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:A0:E6:D9&stream=824552&extension=ts&play_token=ZwAgGju8Wp
 #EXTINF:-1 group-title="GERMANY TEST",Sky Select 10 FHD
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:A0:E6:D9&stream=824551&extension=ts&play_token=3tzsKCiN7T
+#EXTINF:-1 group-title="GERMANY TEST",Sky Select Programmubersicht
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:A0:E6:D9&stream=824561&extension=ts&play_token=XM0QcxUGw8
 
 
 
