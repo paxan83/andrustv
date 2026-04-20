@@ -48,6 +48,12 @@ http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:A0:E6:D9&stream=824561&extensio
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:A0:E6:D9&stream=824562&extension=ts&play_token=sTQYaOMeXi
 #EXTINF:-1 group-title="GERMANY TEST",Sky Select Action
 http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:A0:E6:D9&stream=824563&extension=ts&play_token=axjPlyfIYk
+#EXTINF:-1 group-title="GERMANY TEST",Sky Select Animation
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:A0:E6:D9&stream=824564&extension=ts&play_token=Z0Io7MOA4t
+#EXTINF:-1 group-title="GERMANY TEST",Sky Select Drama
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:A0:E6:D9&stream=824565&extension=ts&play_token=veOZwQzMzN
+#EXTINF:-1 group-title="GERMANY TEST",Sky Select Familie
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:A0:E6:D9&stream=824566&extension=ts&play_token=MUjqelZ0NV
 
 
 
