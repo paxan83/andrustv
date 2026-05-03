@@ -141,6 +141,69 @@ http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824264&extensi
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 1" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 1
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554946&extension=ts&play_token=98RBEdIvvn
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 2" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 2
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554945&extension=ts&play_token=VXH58tTHb2
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 3" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 3
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554944&extension=ts&play_token=7YJMkKlLFy
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 4" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 4
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554943&extension=ts&play_token=GseV447Kkg
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 5" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 5
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554942&extension=ts&play_token=nqWhnBaRgs
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 6" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 6
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554941&extension=ts&play_token=1sC77KEd0S
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 7" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 7
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554940&extension=ts&play_token=phigxwF4rj
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 8" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 8
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554939&extension=ts&play_token=ufJ6kFFws0
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 9" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 9
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554938&extension=ts&play_token=vQ1Z7xp6Gl
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 10" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 10
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554937&extension=ts&play_token=RQcCfXaC8x
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 4K 1" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 4K 1
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554935&extension=ts&play_token=PiTqVp5wIC
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 4K 2" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 4K 2
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554934&extension=ts&play_token=vpSc4gRGyO
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 4K 3" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 4K 3
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554933&extension=ts&play_token=kx248l9omJ
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 4K 4" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 4K 4
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554932&extension=ts&play_token=0GHuIUXM9K
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 4K 5" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 4K 5
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554931&extension=ts&play_token=b7MjIgNyal
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 4K 6" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 4K 6
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554930&extension=ts&play_token=RiqxWEtBt8
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 4K 7" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 4K 7
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554929&extension=ts&play_token=p9WigZHlSm
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 4K 8" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 4K 8
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554928&extension=ts&play_token=LX6LDJJefW
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 4K 9" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 4K 9
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554927&extension=ts&play_token=kD4gT2eHqf
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT 4K 10" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT 4K 10
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554926&extension=ts&play_token=juxaRMVgm7
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT KIDS 1" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT KIDS 1
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554957&extension=ts&play_token=Aym1cbf0AC
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT KIDS 2" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT KIDS 2
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554956&extension=ts&play_token=RozYiDPUUr
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT KIDS 3" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT KIDS 3
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554955&extension=ts&play_token=AvPXhoAkaA
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT KIDS 4" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT KIDS 4
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554954&extension=ts&play_token=jp0VMYt0C9
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT KIDS 5" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT KIDS 5
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554953&extension=ts&play_token=WIw4jpGKXQ
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT KIDS 6" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT KIDS 6
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554952&extension=ts&play_token=zILbXqpoZj
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT KIDS 7" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT KIDS 7
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554951&extension=ts&play_token=bqS8cwV3cJ
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT KIDS 8" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT KIDS 8
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554950&extension=ts&play_token=qojPjQ8D8r
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT KIDS 9" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT KIDS 9
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554949&extension=ts&play_token=SQTOR2BQ8T
+#EXTINF:-1 tvg-id="" tvg-name="SPECIAL SELECT KIDS 10" tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="GERMANY TEST",SPECIAL SELECT KIDS 10
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554948&extension=ts&play_token=wcR0SJUhUE
+
+
+
 
 
 
