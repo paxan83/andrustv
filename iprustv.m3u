@@ -431,8 +431,118 @@ http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=553400&extensi
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select Abenteuer" tvg-logo="https://i.ibb.co/W5Q99cT/Sky-Select-HD-Germany-Logo-2016.png" group-title="GERMANY TEST",Sky Select Abenteuer
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824572&extension=ts&play_token=0pSdHRJ7M4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select Western" tvg-logo="https://i.ibb.co/W5Q99cT/Sky-Select-HD-Germany-Logo-2016.png" group-title="GERMANY TEST",Sky Select Western
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824571&extension=ts&play_token=bIpIV97lKu
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select  Science Fiction" tvg-logo="https://i.ibb.co/W5Q99cT/Sky-Select-HD-Germany-Logo-2016.png" group-title="GERMANY TEST",Sky Select  Science Fiction
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824570&extension=ts&play_token=4RdcAfoIO4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select Thriller" tvg-logo="https://i.ibb.co/W5Q99cT/Sky-Select-HD-Germany-Logo-2016.png" group-title="GERMANY TEST",Sky Select Thriller
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824569&extension=ts&play_token=2UFHMXpS2I
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select Krimi" tvg-logo="https://i.ibb.co/W5Q99cT/Sky-Select-HD-Germany-Logo-2016.png" group-title="GERMANY TEST",Sky Select Krimi
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824568&extension=ts&play_token=ozV5FR5Sz9
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select Horror" tvg-logo="https://i.ibb.co/W5Q99cT/Sky-Select-HD-Germany-Logo-2016.png" group-title="GERMANY TEST",Sky Select Horror
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824567&extension=ts&play_token=fotxz2fRe7
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select Familie" tvg-logo="https://i.ibb.co/W5Q99cT/Sky-Select-HD-Germany-Logo-2016.png" group-title="GERMANY TEST",Sky Select Familie
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824566&extension=ts&play_token=LcMIhDIFsC
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select Drama" tvg-logo="https://i.ibb.co/W5Q99cT/Sky-Select-HD-Germany-Logo-2016.png" group-title="GERMANY TEST",Sky Select Drama
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824565&extension=ts&play_token=60mt35xrAF
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select Animation" tvg-logo="https://i.ibb.co/W5Q99cT/Sky-Select-HD-Germany-Logo-2016.png" group-title="GERMANY TEST",Sky Select Animation
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824564&extension=ts&play_token=AuhbMt5e6n
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Sky Select Action" tvg-logo="https://i.ibb.co/W5Q99cT/Sky-Select-HD-Germany-Logo-2016.png" group-title="GERMANY TEST",Sky Select Action
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824563&extension=ts&play_token=3VdmgtURIt
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="↺13TH STREET FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/13thstreet.png" group-title="GERMANY TEST",↺13TH STREET FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552638&extension=ts&play_token=etNs6U3VJz
+#EXTINF:-1 tvg-id="SyFyUniversal.fr" tvg-name="↺SYFY FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Syfy.png" group-title="GERMANY TEST",↺SYFY FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552624&extension=ts&play_token=esmO38bEIt
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="↺SKY CINEMA ACTION FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Sky.cinema.action.png" group-title="GERMANY TEST",↺SKY CINEMA ACTION FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552653&extension=ts&play_token=tqAJRfPg04
+#EXTINF:-1 tvg-id="" tvg-name="↺SKY CINEMA PREMIEREN FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Sky.cinema.premiere.png" group-title="GERMANY TEST",↺SKY CINEMA PREMIEREN FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552651&extension=ts&play_token=HCyKneWEME
+#EXTINF:-1 tvg-id="" tvg-name="↺SKY CINEMA HIGHLIGHTS FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Sky.cinema.highlights.png" group-title="GERMANY TEST",↺SKY CINEMA HIGHLIGHTS FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552654&extension=ts&play_token=KJxaiMlzhr
+#EXTINF:-1 tvg-id="" tvg-name="↺SKY CINEMA FAMILY FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Sky.cinema.family.png" group-title="GERMANY TEST",↺SKY CINEMA FAMILY FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552646&extension=ts&play_token=dOjbLGLISt
+#EXTINF:-1 tvg-id="" tvg-name="↺SKY CINEMA CLASSICS FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Sky.cinema.classics.png" group-title="GERMANY TEST",↺SKY CINEMA CLASSICS FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552644&extension=ts&play_token=do6u3DfUtn
+#EXTINF:-1 tvg-id="" tvg-name="↺SKY ATLANTIC FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/sky.atlantic.png" group-title="GERMANY TEST",↺SKY ATLANTIC FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552642&extension=ts&play_token=aS1kLDASMM
+#EXTINF:-1 tvg-id="" tvg-name="↺SKY ONE FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Sky.One.png" group-title="GERMANY TEST",↺SKY ONE FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552640&extension=ts&play_token=s4HZboCcpc
+#EXTINF:-1 tvg-id="Showcase(English).ca" tvg-name="↺SKY SHOWCASE FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/sky.showcase.png" group-title="GERMANY TEST",↺SKY SHOWCASE FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552636&extension=ts&play_token=CpVwmoKVOr
+#EXTINF:-1 tvg-id="" tvg-name="↺SKY KRIMI FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/sky.krimi.png" group-title="GERMANY TEST",↺SKY KRIMI FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552634&extension=ts&play_token=73lc4Rh3Qt
+#EXTINF:-1 tvg-id="" tvg-name="↺SKY CRIME FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/sky.crime.png" group-title="GERMANY TEST",↺SKY CRIME FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552632&extension=ts&play_token=KQUZ3hZl0c
+#EXTINF:-1 tvg-id="" tvg-name="↺KINOWELT TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Kinowelt.Tv.png" group-title="GERMANY TEST",↺KINOWELT TV FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552622&extension=ts&play_token=h85ArFp7uG
+#EXTINF:-1 tvg-id="" tvg-name="↺SILVERLINE FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/silverline.png" group-title="GERMANY TEST",↺SILVERLINE FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552620&extension=ts&play_token=jRmpTLH36X
+#EXTINF:-1 tvg-id="WarnerTV(src01).fr" tvg-name="↺WARNER TV COMEDY FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/WarnerTV_Comedy.png" group-title="GERMANY TEST",↺WARNER TV COMEDY FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552618&extension=ts&play_token=u1lyStUttz
+#EXTINF:-1 tvg-id="WarnerTV(src01).fr" tvg-name="↺WARNER TV FILM FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/WarnerTV_FILM.png" group-title="GERMANY TEST",↺WARNER TV FILM FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552616&extension=ts&play_token=BchY4vO1Lb
+#EXTINF:-1 tvg-id="WarnerTV(src01).fr" tvg-name="↺WARNER TV SERIE FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/WarnerTV_SERIE.png" group-title="GERMANY TEST",↺WARNER TV SERIE FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552614&extension=ts&play_token=92DEXGoFMy
+#EXTINF:-1 tvg-id="" tvg-name="↺UNIVERSAL TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/UNIVERSAL.TV.png" group-title="GERMANY TEST",↺UNIVERSAL TV FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552612&extension=ts&play_token=k11kjVcABv
+#EXTINF:-1 tvg-id="" tvg-name="↺ROMANCE TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Romance.Tv.png" group-title="GERMANY TEST",↺ROMANCE TV FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=588&extension=ts&play_token=WHpnuQWr4V
+#EXTINF:-1 tvg-id="" tvg-name="↺HEIMATKANAL FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Heimatkanal.png" group-title="GERMANY TEST",↺HEIMATKANAL FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=590&extension=ts&play_token=IvC8LsTprn
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Axn.White.png" group-title="GERMANY TEST",AXN WHITE FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552628&extension=ts&play_token=lZdkhA8sWN
+#EXTINF:-1 tvg-id="" tvg-name="AXN BLACK FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Axn.Black.png" group-title="GERMANY TEST",AXN BLACK FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552626&extension=ts&play_token=NZQ0624gQs
+#EXTINF:-1 tvg-id="" tvg-name="13TH STREET HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/13thstreet.png" group-title="GERMANY TEST",13TH STREET HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552637&extension=ts&play_token=AfyMpHXrNk
+#EXTINF:-1 tvg-id="SyFyUniversal.fr" tvg-name="SYFY HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Syfy.png" group-title="GERMANY TEST",SYFY HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552623&extension=ts&play_token=NHxynDVk72
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="SKY CINEMA ACTION HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Sky.cinema.action.png" group-title="GERMANY TEST",SKY CINEMA ACTION HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552652&extension=ts&play_token=rZ46tdaRhF
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA PREMIERE HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Sky.cinema.premiere.png" group-title="GERMANY TEST",SKY CINEMA PREMIERE HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552650&extension=ts&play_token=xqAMGXvyRy
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA HIGHLIGHTS HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Sky.cinema.highlights.png" group-title="GERMANY TEST",SKY CINEMA HIGHLIGHTS HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552655&extension=ts&play_token=U6NXV8Uup4
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA FAMILY HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Sky.cinema.family.png" group-title="GERMANY TEST",SKY CINEMA FAMILY HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552645&extension=ts&play_token=MNlaEvftez
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA CLASSICS HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Sky.cinema.classics.png" group-title="GERMANY TEST",SKY CINEMA CLASSICS HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552643&extension=ts&play_token=qOKw6qBrll
+#EXTINF:-1 tvg-id="" tvg-name="SKY ATLANTIC HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/sky.atlantic.png" group-title="GERMANY TEST",SKY ATLANTIC HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552641&extension=ts&play_token=nCto2mBJlr
+#EXTINF:-1 tvg-id="Showcase(English).ca" tvg-name="SKY SHOWCASE HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/sky.showcase.png" group-title="GERMANY TEST",SKY SHOWCASE HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552635&extension=ts&play_token=h25anlyuFU
+#EXTINF:-1 tvg-id="" tvg-name="SKY ONE HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Sky.One.png" group-title="GERMANY TEST",SKY ONE HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552639&extension=ts&play_token=GHMQM5Hsy4
+#EXTINF:-1 tvg-id="" tvg-name="SKY KRIMI HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/sky.krimi.png" group-title="GERMANY TEST",SKY KRIMI HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552633&extension=ts&play_token=3WE3aSquma
+#EXTINF:-1 tvg-id="" tvg-name="SKY CRIME HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/sky.crime.png" group-title="GERMANY TEST",SKY CRIME HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552631&extension=ts&play_token=hlHTWUQCRq
+#EXTINF:-1 tvg-id="" tvg-name="KINOWELT TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Kinowelt.Tv.png" group-title="GERMANY TEST",KINOWELT TV HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552621&extension=ts&play_token=7Wurel0PzU
+#EXTINF:-1 tvg-id="" tvg-name="SILVERLINE HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/silverline.png" group-title="GERMANY TEST",SILVERLINE HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552619&extension=ts&play_token=aGbWVmkCha
+#EXTINF:-1 tvg-id="WarnerTV(src01).fr" tvg-name="WARNER TV COMEDY HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/WarnerTV_Comedy.png" group-title="GERMANY TEST",WARNER TV COMEDY HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552617&extension=ts&play_token=2V1n3VJaKn
+#EXTINF:-1 tvg-id="WarnerTV(src01).fr" tvg-name="WARNER TV FILM HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/WarnerTV_FILM.png" group-title="GERMANY TEST",WARNER TV FILM HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552615&extension=ts&play_token=m5Ld0Sq9Ae
+#EXTINF:-1 tvg-id="WarnerTV(src01).fr" tvg-name="WARNER TV SERIE HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/WarnerTV_SERIE.png" group-title="GERMANY TEST",WARNER TV SERIE HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552613&extension=ts&play_token=L2ULia6bSq
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/UNIVERSAL.TV.png" group-title="GERMANY TEST",UNIVERSAL TV HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552611&extension=ts&play_token=6WFPbyMow5
+#EXTINF:-1 tvg-id="" tvg-name="ROMANCE TV HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Romance.Tv.png" group-title="GERMANY TEST",ROMANCE TV HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=589&extension=ts&play_token=BVNYDaK4hI
+#EXTINF:-1 tvg-id="" tvg-name="HEIMATKANAL HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Heimatkanal.png" group-title="GERMANY TEST",HEIMATKANAL HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=591&extension=ts&play_token=lDcdMY27GN
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Axn.White.png" group-title="GERMANY TEST",AXN WHITE HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552627&extension=ts&play_token=MrC3Elvx8x
+#EXTINF:-1 tvg-id="" tvg-name="AXN BLACK HD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Axn.Black.png" group-title="GERMANY TEST",AXN BLACK HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=552625&extension=ts&play_token=51JjKBPkwW
 
 
 
