@@ -56,6 +56,122 @@ http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824552&extensi
 #EXTINF:-1 tvg-id="" tvg-name="Sky Select 10 FHD" tvg-logo="https://i.ibb.co/W5Q99cT/Sky-Select-HD-Germany-Logo-2016.png" group-title="GERMANY TEST",Sky Select 10 FHD
 http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824551&extension=ts&play_token=NeZGLhZshV
 
+
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO KINDER 1 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO KINDER 1 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442621&extension=ts&play_token=0qjvEfbwJQ
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO KINDER 2 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO KINDER 2 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442620&extension=ts&play_token=qFXrQLgVyU
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO KINDER 3 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO KINDER 3 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442619&extension=ts&play_token=40NfiypQbE
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO KINDER 4 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO KINDER 4 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442618&extension=ts&play_token=KdF3JRuNJO
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 1 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 1 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442617&extension=ts&play_token=CZg6stjnBm
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 2 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 2 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442616&extension=ts&play_token=kIpoeqox6u
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 3 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 3 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442615&extension=ts&play_token=w5PAA8O6bQ
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 4 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 4 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442614&extension=ts&play_token=iUwHQHPTbB
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 5 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 5 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442613&extension=ts&play_token=ZqMTL5ab35
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 6 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 6 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442612&extension=ts&play_token=7htXlvKBRA
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 7 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 7 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442611&extension=ts&play_token=Jw7tvC6mXS
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 8 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 8 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442610&extension=ts&play_token=5JNopVltwZ
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 9 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 9 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442609&extension=ts&play_token=9eKMtZrlrA
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 10 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 10 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442608&extension=ts&play_token=00mYT7bSda
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 11 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 11 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442607&extension=ts&play_token=pp1SEuN5VP
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 12 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 12 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442606&extension=ts&play_token=Q1rEJy2Gae
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 13 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 13 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442605&extension=ts&play_token=hBjdHqauBk
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 14 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 14 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442604&extension=ts&play_token=HNWISeMrRe
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 15 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 15 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442603&extension=ts&play_token=x2BdX63IsB
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 16 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 16 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442602&extension=ts&play_token=ZAqGF3uNpQ
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 17 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 17 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442601&extension=ts&play_token=GIt6XFWZgY
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 18 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 18 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442600&extension=ts&play_token=0kMlnyrDnf
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 19 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 19 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442599&extension=ts&play_token=Bn78KpWMyc
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 20 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 20 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442598&extension=ts&play_token=2RbO30LH2o
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 21 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 21 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442597&extension=ts&play_token=26bidEYNBI
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 22 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 22 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442596&extension=ts&play_token=gsd1ZaJBZT
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 23 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 23 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442595&extension=ts&play_token=gAa2zBeK9Z
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 24 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 24 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442594&extension=ts&play_token=R47iLt646e
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 25 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 25 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442593&extension=ts&play_token=o3qi4aqXTN
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 26 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 26 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442592&extension=ts&play_token=ivQxrqCH4h
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 27 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 27 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442591&extension=ts&play_token=KQtS7qkAiA
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 28 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 28 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442590&extension=ts&play_token=gtNDgr7VaH
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 29 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 29 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442589&extension=ts&play_token=DT53bkAdiT
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 30 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 30 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442588&extension=ts&play_token=MwAfdx5YlY
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 31 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 31 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442587&extension=ts&play_token=zz00QjT2ck
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 32 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 32 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442586&extension=ts&play_token=r5WBDC9TYu
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 33 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 33 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442585&extension=ts&play_token=BoZxPi3vLD
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 34 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 34 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442584&extension=ts&play_token=1zQrj0kfhk
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 35 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 35 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442583&extension=ts&play_token=58xaRHDtPd
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 36 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 36 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442582&extension=ts&play_token=L9yd7CctWw
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 37 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 37 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442581&extension=ts&play_token=qfaHUzfq2a
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 38 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 38 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442580&extension=ts&play_token=FHR1gWQR5H
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 39 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 39 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442579&extension=ts&play_token=EaYKg98SBo
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 40 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 40 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442578&extension=ts&play_token=AW7zATOSK0
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 41 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 41 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442577&extension=ts&play_token=TYJuCDHVyA
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 42 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 42 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442576&extension=ts&play_token=OWY7kfXm6L
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 43 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 43 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442575&extension=ts&play_token=0gVQIUgoLf
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 44 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 44 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442574&extension=ts&play_token=bs21ueW2O1
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 45 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 45 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442573&extension=ts&play_token=tYM3T0SZgV
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 46 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 46 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442572&extension=ts&play_token=ySZUkTE2bP
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 47 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 47 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442571&extension=ts&play_token=STxs85CDPs
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 48 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 48 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442570&extension=ts&play_token=7dYzRf9wsb
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 49 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 49 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442569&extension=ts&play_token=xaN5df6VrC
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO FILME 50 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO FILME 50 
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442568&extension=ts&play_token=sel9XB2vCO
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Action.fr" tvg-name="GERMANYBOX ACTION FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANYBOX ACTION FHD
 http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824311&extension=ts&play_token=EuWwmxgmKm
 #EXTINF:-1 tvg-id="" tvg-name="GERMANY BOX AMAZON PRIME" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANY BOX AMAZON PRIME
