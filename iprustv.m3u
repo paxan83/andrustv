@@ -56,6 +56,30 @@ http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824552&extensi
 #EXTINF:-1 tvg-id="" tvg-name="Sky Select 10 FHD" tvg-logo="https://i.ibb.co/W5Q99cT/Sky-Select-HD-Germany-Logo-2016.png" group-title="GERMANY TEST",Sky Select 10 FHD
 http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824551&extension=ts&play_token=NeZGLhZshV
 
+#EXTINF:-1 tvg-id="MAX(src01).ca" tvg-name="MAX KINO 1 HD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/max_kino.png" group-title="GERMANY TEST",MAX KINO 1 HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824290&extension=ts&play_token=5VvNSXHbeN
+#EXTINF:-1 tvg-id="MAX(src01).ca" tvg-name="MAX KINO 2 FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/max_kino.png" group-title="GERMANY TEST",MAX KINO 2 FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824289&extension=ts&play_token=2tp2Dp3Hem
+#EXTINF:-1 tvg-id="MAX(src01).ca" tvg-name="MAX KINO 3 FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/max_kino.png" group-title="GERMANY TEST",MAX KINO 3 FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824288&extension=ts&play_token=PFI5EVGGRa
+#EXTINF:-1 tvg-id="MAX(src01).ca" tvg-name="MAX KINO 4 FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/max_kino.png" group-title="GERMANY TEST",MAX KINO 4 FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824287&extension=ts&play_token=e9QqFYEQeg
+#EXTINF:-1 tvg-id="MAX(src01).ca" tvg-name="MAX KINO 5 FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/max_kino.png" group-title="GERMANY TEST",MAX KINO 5 FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824286&extension=ts&play_token=kGwO9iseh4
+#EXTINF:-1 tvg-id="MAX(src01).ca" tvg-name="MAX KINO COLLECTION FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/max_kino.png" group-title="GERMANY TEST",MAX KINO COLLECTION FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824285&extension=ts&play_token=dZjWyRtFZb
+#EXTINF:-1 tvg-id="MAX(src01).ca" tvg-name="MAX PREMIERE FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/max_premiere.png" group-title="GERMANY TEST",MAX PREMIERE FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824284&extension=ts&play_token=4fwgRpyIvQ
+#EXTINF:-1 tvg-id="MAX(src01).ca" tvg-name="MAX STAR WARS FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/max_star_wars.png" group-title="GERMANY TEST",MAX STAR WARS FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824283&extension=ts&play_token=YVea1pH1tT
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="DE | SKY GO KINDER 1 " tvg-logo="https://i.ibb.co/BjcCSnQ/skygo.png" group-title="GERMANY TEST",DE | SKY GO KINDER 1 
 http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=442621&extension=ts&play_token=0qjvEfbwJQ
