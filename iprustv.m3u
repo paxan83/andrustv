@@ -321,26 +321,7 @@ http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=554948&extensi
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MAGENTA MUSIC 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Magenta.music.png" group-title="GERMANY TEST",MAGENTA MUSIC 1
-http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=837049&extension=ts&play_token=hKtdRL4JAb
-#EXTINF:-1 tvg-id="" tvg-name="MAGENTA MUSIC 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Magenta.music.png" group-title="GERMANY TEST",MAGENTA MUSIC 2
-http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=837050&extension=ts&play_token=oLRpxPsZ6l
-#EXTINF:-1 tvg-id="" tvg-name="VEVO '70S" tvg-logo="https://i.ibb.co/7RmQsMT/image.png" group-title="GERMANY TEST",VEVO '70S
-http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=946&extension=ts&play_token=aOx1nsBkM7
-#EXTINF:-1 tvg-id="" tvg-name="VEVO '80S" tvg-logo="https://i.ibb.co/7RmQsMT/image.png" group-title="GERMANY TEST",VEVO '80S
-http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=947&extension=ts&play_token=iA0vA0OLDe
-#EXTINF:-1 tvg-id="" tvg-name="VEVO '90S" tvg-logo="https://i.ibb.co/7RmQsMT/image.png" group-title="GERMANY TEST",VEVO '90S
-http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=948&extension=ts&play_token=CsT8xV3I5i
-#EXTINF:-1 tvg-id="" tvg-name="VEVO COUNTRY" tvg-logo="https://i.ibb.co/7RmQsMT/image.png" group-title="GERMANY TEST",VEVO COUNTRY
-http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=949&extension=ts&play_token=QC9uTDkSTZ
-#EXTINF:-1 tvg-id="" tvg-name="VEVO 2K" tvg-logo="https://i.ibb.co/7RmQsMT/image.png" group-title="GERMANY TEST",VEVO 2K
-http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=950&extension=ts&play_token=BBhV5K1uzQ
-#EXTINF:-1 tvg-id="" tvg-name="VEVO POP" tvg-logo="https://i.ibb.co/7RmQsMT/image.png" group-title="GERMANY TEST",VEVO POP
-http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=951&extension=ts&play_token=UQbsbwWnV9
-#EXTINF:-1 tvg-id="" tvg-name="VEVO R&B" tvg-logo="https://i.ibb.co/7RmQsMT/image.png" group-title="GERMANY TEST",VEVO R&B
-http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=952&extension=ts&play_token=AFYuFsO0NR
-#EXTINF:-1 tvg-id="" tvg-name="VEVO TRUE SCHOOL HIP-HOP" tvg-logo="https://i.ibb.co/7RmQsMT/image.png" group-title="GERMANY TEST",VEVO TRUE SCHOOL HIP-HOP
-http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=953&extension=ts&play_token=81bb99CTre
+
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="MEZZO" tvg-logo="https://i.ibb.co/kHr62RL/image.png" group-title="GERMANY TEST",MEZZO
 http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=963&extension=ts&play_token=ni7yWi4t8o
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ HITS TV" tvg-logo="https://i.ibb.co/28G1wCr/image.png" group-title="GERMANY TEST",NRJ HITS TV
