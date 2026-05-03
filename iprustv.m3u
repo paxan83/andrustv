@@ -56,6 +56,52 @@ http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824552&extensi
 #EXTINF:-1 tvg-id="" tvg-name="Sky Select 10 FHD" tvg-logo="https://i.ibb.co/W5Q99cT/Sky-Select-HD-Germany-Logo-2016.png" group-title="GERMANY TEST",Sky Select 10 FHD
 http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824551&extension=ts&play_token=NeZGLhZshV
 
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="GERMANYBOX ACTION FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANYBOX ACTION FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824311&extension=ts&play_token=EuWwmxgmKm
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY BOX AMAZON PRIME" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANY BOX AMAZON PRIME
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824310&extension=ts&play_token=jnCVxw6oSm
+#EXTINF:-1 tvg-id="" tvg-name="GERMANYBOX COMEDY FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANYBOX COMEDY FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824309&extension=ts&play_token=cMx8xt1ti6
+#EXTINF:-1 tvg-id="" tvg-name="GERMANYBOX DRAMA FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANYBOX DRAMA FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824308&extension=ts&play_token=HXuvymZeM2
+#EXTINF:-1 tvg-id="" tvg-name="GERMANYBOX FAMILY FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANYBOX FAMILY FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824307&extension=ts&play_token=bSvQbQVVBI
+#EXTINF:-1 tvg-id="" tvg-name="GERMANYBOX HORROR FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANYBOX HORROR FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824306&extension=ts&play_token=8jcFBvSfqs
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY BOX INDISCH" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANY BOX INDISCH
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824305&extension=ts&play_token=FdGou3r2Wo
+#EXTINF:-1 tvg-id="" tvg-name="GERMANYBOX LIBIES FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANYBOX LIBIES FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824304&extension=ts&play_token=WB9jaO0qOR
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY BOX NETFLIX" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANY BOX NETFLIX
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824303&extension=ts&play_token=Hs6HSb32qW
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY BOX NETFLIX KRIEGS" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANY BOX NETFLIX KRIEGS
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824302&extension=ts&play_token=vINIFJrdL9
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY BOX WESTERN" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANY BOX WESTERN
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824301&extension=ts&play_token=xogkTSGvmE
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONIG FILME 1" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANY KONIG FILME 1
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824300&extension=ts&play_token=sJqKSOM5ii
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONIG FILME 2" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANY KONIG FILME 2
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824299&extension=ts&play_token=nEoThSGQKi
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONIG FILME 3" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANY KONIG FILME 3
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824298&extension=ts&play_token=bdUKtwqWvc
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONIG FILME 4" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANY KONIG FILME 4
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824297&extension=ts&play_token=l63VmUBQge
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONIG FILME 5" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANY KONIG FILME 5
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824296&extension=ts&play_token=0ouH9lrtz6
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY KONIG FILME 6" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="GERMANY TEST",GERMANY KONIG FILME 6
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824295&extension=ts&play_token=77oEZKcu0S
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY SCIENCE FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/Germany_film.png" group-title="GERMANY TEST",GERMANY SCIENCE FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824294&extension=ts&play_token=52fXoJv96l
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY THRILLER FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/Germany_film.png" group-title="GERMANY TEST",GERMANY THRILLER FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824293&extension=ts&play_token=G7X7hajFKR
+#EXTINF:-1 tvg-id="" tvg-name="GERMANY VISION FHD" tvg-logo="https://tvlogo.nl/files/ch/GERMANY/Germany_film.png" group-title="GERMANY TEST",GERMANY VISION FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824292&extension=ts&play_token=bQEBOtaaZu
+
+
+
+
+
+
 
 
 
