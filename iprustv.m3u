@@ -12,7 +12,7 @@ https://stream.smotrim.ru/hls/fasttv04/playlist_1.m3u8
 #EXTINF:-1 group-title="International",Смотрим 100% Детское
 https://stream.smotrim.ru/hls/fasttv05/playlist_1.m3u8
 #EXTINF:-1 group-title="International",Первый канал Европа
-https://pkvc-hls7.cdnvideo.ru/pkvc/pk/playlist.m3u8
+https://streaming.goodstream.icu/live/210.m3u8
 #EXTINF:-1 group-title="International",Победа
 #EXTVLCOPT:http-referrer=https://pobeda.tv/
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8?hls_proxy_host=6629500d2dbfd5d4bb54110b620706c6
