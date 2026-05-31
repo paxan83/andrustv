@@ -28,6 +28,18 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="FUSSBALL.TV 1 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/GermanyGif/vm.gif" group-title="SKY HD NEW TEST",WM 2026 FUSSBALL.TV 1 HD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C8&stream=915658&extension=ts&play_token=gvkq6s62Hi
+#EXTINF:-1 tvg-id="" tvg-name="FUSSBALL.TV 1 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/GermanyGif/vm.gif" group-title="SKY HD NEW TEST",WM 2026 FUSSBALL.TV 1 FHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C8&stream=915657&extension=ts&play_token=dIOCWDiR5f
+#EXTINF:-1 tvg-id="" tvg-name="FUSSBALL.TV 1 UHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/GermanyGif/vm.gif" group-title="SKY HD NEW TEST",WM 2026 FUSSBALL.TV 1 UHD
+http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C8&stream=915656&extension=ts&play_token=GX1lfI64iV
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Select Programmubersicht" tvg-logo="https://i.ibb.co/W5Q99cT/Sky-Select-HD-Germany-Logo-2016.png" group-title="SKY HD NEW TEST",Sky Select Programmubersicht
 http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824561&extension=ts&play_token=eCDsn91kHD
 #EXTINF:-1 tvg-id="" tvg-name="Sky Select 1 FHD" tvg-logo="https://i.ibb.co/W5Q99cT/Sky-Select-HD-Germany-Logo-2016.png" group-title="SKY HD NEW TEST",Sky Select 1 FHD
