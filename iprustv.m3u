@@ -28,10 +28,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="FUSSBALL.TV 1 HD" tvg-logo="https://www.tvlogolar.xyz/Toplu/GermanyGif/vm.gif" group-title="SKY HD NEW TEST",WM 2026 FUSSBALL.TV 1 HD
-http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C8&stream=915658&extension=ts&play_token=gvkq6s62Hi
-#EXTINF:-1 tvg-id="" tvg-name="FUSSBALL.TV 1 FHD" tvg-logo="https://www.tvlogolar.xyz/Toplu/GermanyGif/vm.gif" group-title="SKY HD NEW TEST",WM 2026 FUSSBALL.TV 1 FHD
-http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C8&stream=915657&extension=ts&play_token=dIOCWDiR5f
+
 
 
 
@@ -64,11 +61,359 @@ http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:C4&stream=824551&extensi
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="DE| NETFLIX 1 4K" tvg-logo="http://103.176.90.92/images/921734.png" group-title="SKY HD NEW TEST",DE| NETFLIX 1 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921734&extension=ts&play_token=FkpuUWye8x
+#EXTINF:-1 tvg-id="" tvg-name="DE| NETFLIX 2 4K" tvg-logo="http://103.176.90.92/images/921735.png" group-title="SKY HD NEW TEST",DE| NETFLIX 2 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921735&extension=ts&play_token=63QS35B08D
+#EXTINF:-1 tvg-id="" tvg-name="DE| NETFLIX 3 4K" tvg-logo="http://103.176.90.92/images/921736.png" group-title="SKY HD NEW TEST",DE| NETFLIX 3 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921736&extension=ts&play_token=g4ylaNxUX4
+#EXTINF:-1 tvg-id="" tvg-name="DE| NETFLIX 4 4K" tvg-logo="http://103.176.90.92/images/921737.png" group-title="SKY HD NEW TEST",DE| NETFLIX 4 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921737&extension=ts&play_token=CKHwIfGLzf
+#EXTINF:-1 tvg-id="" tvg-name="DE| NETFLIX 5 4K" tvg-logo="http://103.176.90.92/images/921738.png" group-title="SKY HD NEW TEST",DE| NETFLIX 5 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921738&extension=ts&play_token=IKzs3oXS91
+#EXTINF:-1 tvg-id="" tvg-name="DE| NETFLIX 6 4K" tvg-logo="http://103.176.90.92/images/921739.png" group-title="SKY HD NEW TEST",DE| NETFLIX 6 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921739&extension=ts&play_token=LxucAjOBBS
+#EXTINF:-1 tvg-id="" tvg-name="DE| NETFLIX 7 4K" tvg-logo="http://103.176.90.92/images/921740.png" group-title="SKY HD NEW TEST",DE| NETFLIX 7 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921740&extension=ts&play_token=XueGSmw7a9
+#EXTINF:-1 tvg-id="" tvg-name="DE| PRIME 1 4K" tvg-logo="http://103.176.90.92/images/921730.png" group-title="SKY HD NEW TEST",DE| PRIME 1 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921730&extension=ts&play_token=KIx1HoOAs3
+#EXTINF:-1 tvg-id="" tvg-name="DE| PRIME 2 4K" tvg-logo="http://103.176.90.92/images/921731.png" group-title="SKY HD NEW TEST",DE| PRIME 2 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921731&extension=ts&play_token=u4rumf0NP8
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="DE| ACTION 1 4K" tvg-logo="http://103.176.90.92/images/921759.png" group-title="SKY HD NEW TEST",DE| ACTION 1 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921759&extension=ts&play_token=W4cCLtCgHc
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="DE| ACTION 2 4K" tvg-logo="http://103.176.90.92/images/921760.png" group-title="SKY HD NEW TEST",DE| ACTION 2 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921760&extension=ts&play_token=3zGJ7FvHpF
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="DE| ACTION 3 4K" tvg-logo="http://103.176.90.92/images/921761.png" group-title="SKY HD NEW TEST",DE| ACTION 3 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921761&extension=ts&play_token=aF5vafTQ2F
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="DE| ACTION 4 4K" tvg-logo="http://103.176.90.92/images/921762.png" group-title="SKY HD NEW TEST",DE| ACTION 4 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921762&extension=ts&play_token=ZpDi9YyPtI
+#EXTINF:-1 tvg-id="" tvg-name="DE| POLICIER 1 4K" tvg-logo="http://103.176.90.92/images/921732.png" group-title="SKY HD NEW TEST",DE| POLICIER 1 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921732&extension=ts&play_token=esnpBkrptT
+#EXTINF:-1 tvg-id="" tvg-name="DE| POLICIER 2 4K" tvg-logo="http://103.176.90.92/images/921733.png" group-title="SKY HD NEW TEST",DE| POLICIER 2 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921733&extension=ts&play_token=TDQ46xRmMJ
+#EXTINF:-1 tvg-id="" tvg-name="DE| HORROR 1 4K" tvg-logo="http://103.176.90.92/images/921752.png" group-title="SKY HD NEW TEST",DE| HORROR 1 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921752&extension=ts&play_token=eNJIxw9osW
+#EXTINF:-1 tvg-id="" tvg-name="DE| HORROR 2 4K" tvg-logo="http://103.176.90.92/images/921753.png" group-title="SKY HD NEW TEST",DE| HORROR 2 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921753&extension=ts&play_token=wpliAPNMRL
+#EXTINF:-1 tvg-id="" tvg-name="DE| HORROR 3 4K" tvg-logo="http://103.176.90.92/images/921754.png" group-title="SKY HD NEW TEST",DE| HORROR 3 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921754&extension=ts&play_token=aY71jGOCyw
+#EXTINF:-1 tvg-id="" tvg-name="DE| COMEDY 1 4K" tvg-logo="http://103.176.90.92/images/921763.png" group-title="SKY HD NEW TEST",DE| COMEDY 1 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921763&extension=ts&play_token=bB6bjXSI85
+#EXTINF:-1 tvg-id="" tvg-name="DE| COMEDY 2 4K" tvg-logo="http://103.176.90.92/images/921764.png" group-title="SKY HD NEW TEST",DE| COMEDY 2 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921764&extension=ts&play_token=4s0IJ3uysG
+#EXTINF:-1 tvg-id="" tvg-name="DE| COMEDY 3 4K" tvg-logo="http://103.176.90.92/images/921765.png" group-title="SKY HD NEW TEST",DE| COMEDY 3 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=921765&extension=ts&play_token=fZhDk1BVfy
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="##### MAGENTA FILME 4K #####" tvg-logo="" group-title="SKY HD NEW TEST",##### MAGENTA FILME 4K #####
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1517662&extension=ts&play_token=lDBhs8BH1G
+#EXTINF:-1 tvg-id="" tvg-name="DE| TOP 100 4K" tvg-logo="http://103.176.90.92/images/1529679.png" group-title="SKY HD NEW TEST",DE| TOP 100 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1529679&extension=ts&play_token=JeRghOIpqa
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="DE| MAGENTA ACTION 1 4K" tvg-logo="http://103.176.90.92/images/1517663.png" group-title="SKY HD NEW TEST",DE| MAGENTA ACTION 1 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1517663&extension=ts&play_token=hJVYo4b2sz
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="DE| MAGENTA ACTION 2 4K" tvg-logo="http://103.176.90.92/images/1517664.png" group-title="SKY HD NEW TEST",DE| MAGENTA ACTION 2 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1517664&extension=ts&play_token=zcRnyReNuR
+#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA COMEDY 1 4K" tvg-logo="http://103.176.90.92/images/1517666.png" group-title="SKY HD NEW TEST",DE| MAGENTA COMEDY 1 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1517666&extension=ts&play_token=oRYpNFTMbD
+#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA COMEDY 2 4K" tvg-logo="http://103.176.90.92/images/1517667.png" group-title="SKY HD NEW TEST",DE| MAGENTA COMEDY 2 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1517667&extension=ts&play_token=LU11CTOOrj
+#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA DRAMA 4K" tvg-logo="http://103.176.90.92/images/1517668.png" group-title="SKY HD NEW TEST",DE| MAGENTA DRAMA 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1517668&extension=ts&play_token=0TvzM9m0mN
+#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA HORROR 4K" tvg-logo="http://103.176.90.92/images/1517669.png" group-title="SKY HD NEW TEST",DE| MAGENTA HORROR 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1517669&extension=ts&play_token=ZZYIysusVO
+#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA ADVENTURE 4K" tvg-logo="http://103.176.90.92/images/1517665.png" group-title="SKY HD NEW TEST",DE| MAGENTA ADVENTURE 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1517665&extension=ts&play_token=nU7eMY6o3A
+#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA THRILLER 4K" tvg-logo="http://103.176.90.92/images/1517675.png" group-title="SKY HD NEW TEST",DE| MAGENTA THRILLER 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1517675&extension=ts&play_token=OIehDRwXrU
+#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA SPECIAL 4K" tvg-logo="http://103.176.90.92/images/1517674.png" group-title="SKY HD NEW TEST",DE| MAGENTA SPECIAL 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1517674&extension=ts&play_token=hQFWOMyAgs
+#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA SCI-FI 4K" tvg-logo="http://103.176.90.92/images/1517673.png" group-title="SKY HD NEW TEST",DE| MAGENTA SCI-FI 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1517673&extension=ts&play_token=eZUUBoDfT9
+#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA ROMANCE 4K" tvg-logo="http://103.176.90.92/images/1517672.png" group-title="SKY HD NEW TEST",DE| MAGENTA ROMANCE 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1517672&extension=ts&play_token=hq4waH5D6Q
+#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA NON-STOP 4K" tvg-logo="http://103.176.90.92/images/1517671.png" group-title="SKY HD NEW TEST",DE| MAGENTA NON-STOP 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1517671&extension=ts&play_token=SWL7j9F2L0
+#EXTINF:-1 tvg-id="" tvg-name="DE| MAGENTA KINDER 4K" tvg-logo="http://103.176.90.92/images/1517670.png" group-title="SKY HD NEW TEST",DE| MAGENTA KINDER 4K
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1517670&extension=ts&play_token=XjuygujFX5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="##### SKY GO PREMIUM PLAY #####" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",##### SKY GO PREMIUM PLAY #####
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871516&extension=ts&play_token=w9Tiaivaiz
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO DETEKTIV CONAN 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO DETEKTIV CONAN 1 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871515&extension=ts&play_token=D1q6h2c6np
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO DETEKTIV CONAN 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO DETEKTIV CONAN 2 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871514&extension=ts&play_token=Hn6O1TmwOp
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO KINDER 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO KINDER 1 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871513&extension=ts&play_token=tQwiJ5gvxs
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO KINDER 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO KINDER 2 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871512&extension=ts&play_token=jnlJr7sFv6
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO KINDER 3 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO KINDER 3 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871511&extension=ts&play_token=doYaXEG4xR
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO KINDER 4 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO KINDER 4 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871510&extension=ts&play_token=jQ7lqjZPTu
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 1 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871509&extension=ts&play_token=7zeU3tSOlN
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 2 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871508&extension=ts&play_token=PonK7u05Tb
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 3 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 3 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871507&extension=ts&play_token=f3BjkCH7yT
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 4 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 4 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871506&extension=ts&play_token=mF6oXJGEfj
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 5 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 5 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871505&extension=ts&play_token=0djbauNhq3
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 6 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 6 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871504&extension=ts&play_token=wqdKudo287
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 7 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 7 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871503&extension=ts&play_token=4K3R12rj7Z
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 8 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 8 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871502&extension=ts&play_token=HlRG0sFoIN
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 9 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 9 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871501&extension=ts&play_token=oFLjZ4GSki
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 10 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 10 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871500&extension=ts&play_token=ElPjBCEQPt
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 11 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 11 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871499&extension=ts&play_token=Wj16EB2b7g
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 12 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 12 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871498&extension=ts&play_token=WjO2GYwL6G
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 13 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 13 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871497&extension=ts&play_token=kQ8OjkTYuX
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 14 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 14 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871496&extension=ts&play_token=qkveiDFFYl
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 15 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 15 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871495&extension=ts&play_token=YqPVNFDxB5
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 16 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 16 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871494&extension=ts&play_token=KqdPSf0ScS
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 17 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 17 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871493&extension=ts&play_token=VCk4Z12aze
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 18 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 18 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871492&extension=ts&play_token=K4qfxJxy9L
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 19 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 19 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871491&extension=ts&play_token=scOTR6VRNo
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 20 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 20 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871490&extension=ts&play_token=quXpN7q3Zc
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 21 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 21 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871489&extension=ts&play_token=Haw8kmdFuR
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 22 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 22 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871488&extension=ts&play_token=Sh582fc5q5
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 23 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 23 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871487&extension=ts&play_token=eJZBXvUlOa
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 24 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 24 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871486&extension=ts&play_token=q7fvqLTLbc
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 25 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 25 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871485&extension=ts&play_token=hJaxD6xAxV
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 26 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 26 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871484&extension=ts&play_token=JP16vtS1uZ
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 27 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 27 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871483&extension=ts&play_token=5lJ3E88be6
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 28 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 28 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871482&extension=ts&play_token=ctUrG2LXDT
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 29 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 29 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871481&extension=ts&play_token=pQAprXkUXB
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 30 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 30 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871480&extension=ts&play_token=z42gMYzT7v
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 31 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 31 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871479&extension=ts&play_token=F5I4diFxRj
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 32 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 32 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871478&extension=ts&play_token=pwYZ7ajFee
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 33 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 33 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871477&extension=ts&play_token=a33ACVzqIw
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 34 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 34 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871476&extension=ts&play_token=6TMDQaXS96
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 35 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 35 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871475&extension=ts&play_token=R2YB17tKG6
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 36 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 36 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871474&extension=ts&play_token=HwAAaCQPBW
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 37 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 37 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871473&extension=ts&play_token=bf69LCbxUM
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 38 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 38 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871472&extension=ts&play_token=fdw4bZytVr
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 39 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 39 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871471&extension=ts&play_token=S0hC6iw0HL
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 40 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 40 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871470&extension=ts&play_token=ypZD1148NE
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 41 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 41 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871469&extension=ts&play_token=nKwm9CVnH7
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 42 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 42 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871468&extension=ts&play_token=4ALsTQQs7A
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 43 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 43 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871467&extension=ts&play_token=SptoHkx1nR
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 44 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 44 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871466&extension=ts&play_token=jGWMdSucuX
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 45 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 45 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871465&extension=ts&play_token=ssUlWXIUtu
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 46 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 46 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871464&extension=ts&play_token=I15nr76zi0
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 47 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 47 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871463&extension=ts&play_token=v0cZwUXps5
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 48 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 48 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871462&extension=ts&play_token=YM5tyiSzEZ
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 49 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 49 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871461&extension=ts&play_token=rYrt3Fbrvj
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 50 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYGO.png" group-title="SKY HD NEW TEST",DE| SKY GO FILME 50 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=871460&extension=ts&play_token=mCbUh83pKE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="##### VODAFONE GO #####" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",##### VODAFONE GO #####
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994041&extension=ts&play_token=RlLf1YcbN7
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO KINDER 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO KINDER 1 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994040&extension=ts&play_token=45YyJno7Pz
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO KINDER 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO KINDER 2 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994039&extension=ts&play_token=AghXic3YGT
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO KINDER 3 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO KINDER 3 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994038&extension=ts&play_token=lmSLNyDjpk
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 1 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994037&extension=ts&play_token=ay3QxOZ9Ro
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 2 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994036&extension=ts&play_token=s9GaNMnS2J
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 3 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 3 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994035&extension=ts&play_token=EJzhaaHvOq
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 4 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 4 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994034&extension=ts&play_token=f0pjyZRKNe
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 5 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 5 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994033&extension=ts&play_token=xnz1SahMsu
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 6 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 6 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994032&extension=ts&play_token=Ugh59UQXAq
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 7 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 7 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994031&extension=ts&play_token=X6IsprTELD
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 8 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 8 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994030&extension=ts&play_token=YyAsp7SSCL
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 9 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 9 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994029&extension=ts&play_token=h1gzTNeC02
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 10 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 10 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994028&extension=ts&play_token=vkgoaY2C8N
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 11 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 11 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994027&extension=ts&play_token=sQhYxnkxiY
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 12 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 12 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994026&extension=ts&play_token=pSAYD1gzn7
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 13 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 13 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994025&extension=ts&play_token=SfCJpTCpse
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 14 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 14 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994024&extension=ts&play_token=oqYnwuP1Rg
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 15 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 15 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994023&extension=ts&play_token=xWoygPah0l
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 16 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 16 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994022&extension=ts&play_token=0qJwFa4Ata
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 17 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 17 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994021&extension=ts&play_token=sKwdAqI5Rb
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 18 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 18 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994020&extension=ts&play_token=vnDHzBcYWd
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 19 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 19 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994019&extension=ts&play_token=atrxYc6jzG
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 20 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 20 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994018&extension=ts&play_token=IowZY6SyUa
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 21 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 21 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994017&extension=ts&play_token=dlaHF9YWGW
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 22 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 22 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994016&extension=ts&play_token=fZEeUkGPxU
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 23 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 23 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994015&extension=ts&play_token=lf9rWbKmXC
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 24 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 24 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994014&extension=ts&play_token=ZpxJpNRnEz
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 25 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 25 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994013&extension=ts&play_token=dz54At4x8C
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 26 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 26 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994012&extension=ts&play_token=njR5pVfAlu
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 27 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 27 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994011&extension=ts&play_token=GEJSBhS5V5
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 28 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 28 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994010&extension=ts&play_token=QEJ1zXuyqm
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 29 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 29 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994009&extension=ts&play_token=0Wn23RXkRw
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 30 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 30 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994008&extension=ts&play_token=hD32bMfPkX
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 31 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 31 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994007&extension=ts&play_token=0euiI13Qrj
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 32 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 32 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994006&extension=ts&play_token=IXZ6EKnj1l
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 33 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 33 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994005&extension=ts&play_token=2dqNQ9Voxp
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 34 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 34 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994004&extension=ts&play_token=prVcdpKcy1
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 35 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 35 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994003&extension=ts&play_token=CQmm4nG6Cu
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 36 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 36 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994002&extension=ts&play_token=mfR6lt7jPK
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 37 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 37 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994001&extension=ts&play_token=4CNkZj9Zfu
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 38 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 38 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=994000&extension=ts&play_token=KwF98tfgit
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 39 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 39 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=993999&extension=ts&play_token=ALyPoVeLdr
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 40 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 40 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=993998&extension=ts&play_token=dgIBF3Ghp1
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 41 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 41 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=993997&extension=ts&play_token=bDaxLwOpoJ
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 42 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 42 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=993996&extension=ts&play_token=jfintiYOvz
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 43 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 43 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=993995&extension=ts&play_token=9UAJdahjpe
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 44 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 44 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=993994&extension=ts&play_token=SD7J7IxaCc
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 45 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 45 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=993993&extension=ts&play_token=2xWDh347Kj
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 46 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 46 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=993992&extension=ts&play_token=W8CemFb9fI
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 47 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 47 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=993991&extension=ts&play_token=ktXc5Wk5dz
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 48 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 48 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=993990&extension=ts&play_token=Y0ChseYMS2
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 49 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 49 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=993989&extension=ts&play_token=XaOadoBqKW
+#EXTINF:-1 tvg-id="" tvg-name="DE| VODAFONE GO FILME 50 FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/VODAFONE.png" group-title="SKY HD NEW TEST",DE| VODAFONE GO FILME 50 FHD
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=993988&extension=ts&play_token=1NPfyJIgUc
 
 
 
