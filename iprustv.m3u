@@ -16,11 +16,13 @@ https://streaming.goodstream.icu/live/210.m3u8
 #EXTINF:-1 group-title="International",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/12ed865707c77a12eeecfa3177775684--tvc-res--vd9221_480p_2--tracks-v1a1--mono.m3u8?hls_proxy_host=22b5db40ced763465289cd8236e019fb
 #EXTINF:-1 group-title="International",РТР Планета Европа
-https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603.m3u8
+https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_1.m3u8
 #EXTINF:-1 group-title="International",РТР Планета Азия
-https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
+https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist_1.m3u8
 #EXTINF:-1 group-title="International",РТР-Планета Америка
-https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
+https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist_1.m3u8
+#EXTINF:-1 group-title="International",РТР-Планета СНГ
+https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist_1.m3u8
 #EXTINF:-1 group-title="International",Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="International",Сибирь 24 HD
