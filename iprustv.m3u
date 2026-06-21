@@ -56,10 +56,6 @@ http://elcts.live:8080/play/live.php?mac=00:1A:79:14:67:3E&stream=920938&extensi
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="##### DE GENERAL #####" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/GERMANY.png" group-title="SKY HD NEW TEST",##### DE GENERAL #####
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=490206&extension=ts&play_token=UhUKBOfE4I
-#EXTINF:-1 tvg-id="" tvg-name="DE| BILD+ EVENT FAME FIGHTING" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/1948039.png" group-title="SKY HD NEW TEST",DE| BILD+ EVENT FAME FIGHTING
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=1948039&extension=ts&play_token=CEkaXqwPIL
 #EXTINF:-1 tvg-id="" tvg-name="DE| DAS ERSTE HD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/DASERSTE.png" group-title="SKY HD NEW TEST",DE| DAS ERSTE HD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:F4:08:53&stream=411462&extension=ts&play_token=BzHF1P31rb
 #EXTINF:-1 tvg-id="" tvg-name="DE| DAS ERSTE FHD" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/DASERSTE.png" group-title="SKY HD NEW TEST",DE| DAS ERSTE FHD
