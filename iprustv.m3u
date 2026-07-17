@@ -27,7 +27,10 @@ https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=51
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="International",Сибирь 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-
+#EXTINF:-1 tvg-name="TVRUS Plus" tvg-logo="https://tvrus.eu", TVRUS PLUS
+http://83.228.75.166:8000/play/a0aq
+#EXTINF:-1 tvg-name="TVRUS " tvg-logo="https://tvrus.eu", TVRUS
+http://213.91.179.28:8000/play/a082
 
 
 
