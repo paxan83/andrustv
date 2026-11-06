@@ -14,7 +14,7 @@ jobs:
       with:
         python-version: '3.x'
     - run: pip install requests
-    - run: python update_tvrus.py
+    - run: python tvrus_final.py
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
