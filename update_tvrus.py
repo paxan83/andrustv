@@ -13,9 +13,9 @@ try:
         # ВАЖНО: Каждая команда пишется строго с новой строки с правильными заголовками
         m3u_content = f"#EXTM3U\n#EXTINF:-1 tvg-id=\"TVRUS.de\" tvg-name=\"TVRUS\" group-title=\"International\", TVRUS\n{stream_url}\n"
         
-        with open("iprustv.m3u", "w", encoding="utf-8") as f:
+        with open("playlist.m3u", "w", encoding="utf-8") as f:
             f.write(m3u_content)
-        print("Плейлист iprustv.m3u успешно обновлен!")
+        print("Плейлист playlist.m3u успешно обновлен!")
     else:
         print("Ссылка на поток не найдена.")
 except Exception as e:
