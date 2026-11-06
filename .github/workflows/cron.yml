@@ -2,8 +2,8 @@ name: Auto Update TVRUS
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Запуск раз в сутки
-  workflow_dispatch: # Кнопка для ручного запуска
+    - cron: '0 */3 * * *' # Скрипт сам запускается каждые 3 часа круглые сутки
+  workflow_dispatch: # Оставляет кнопку для ручного запуска
 
 jobs:
   update-list:
@@ -11,18 +11,33 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: Download Reliable M3U via CDN
+    - name: Fetch Fresh Link and Create M3U
       run: |
-        wget -qO iprustv.m3u "https://jsdelivr.net"
-        echo "Плейлист успешно скачан через зеркало CDN!"
+        # 1. Скачиваем код официального плеера, притворяясь браузером Chrome
+        HTML_CODE=$(curl -s -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" -H "Referer: https://tvrus.eu" "https://t62a.com")
+        
+        # 2. Вырезаем из кода актуальную ссылку с новым токеном
+        FRESH_URL=$(echo "$HTML_CODE" | grep -oE 'https://[^"]+\.m3u8[^"]*' | head -n 1 | sed 's/\\//g')
+        
+        # 3. Проверяем, нашлась ли ссылка. Если нашлась — записываем плейлист
+        if [[ $FRESH_URL == *"t62a.com"* ]]; then
+          echo "#EXTM3U" > iprustv.m3u
+          echo '#EXTINF:-1 tvg-id="TVRUS.de" tvg-name="TVRUS" group-title="International", TVRUS' >> iprustv.m3u
+          echo "$FRESH_URL" >> iprustv.m3u
+          echo "Успех! Автоматически найдена и записана рабочая ссылка: $FRESH_URL"
+        else
+          echo "Ошибка: Сайт изменил структуру, не удалось вытащить токен."
+          exit 1
+        fi
 
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add iprustv.m3u
-        git commit -m "Fix download using full CDN path" || exit 0
+        git commit -m "Auto-refresh TVRUS stream token" || exit 0
         git push
+
 
 
 
