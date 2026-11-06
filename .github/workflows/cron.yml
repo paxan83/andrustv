@@ -15,8 +15,8 @@ jobs:
       run: |
         echo "#EXTM3U" > iprustv.m3u
         echo '#EXTINF:-1 tvg-id="TVRUS.de" tvg-name="TVRUS" group-title="International", TVRUS' >> iprustv.m3u
-        echo "http://tv-rus.de" >> iprustv.m3u
-        echo "Плейлист успешно сформирован локально с рабочим потоком!"
+        echo "https://hls.tvrus.t62a.com/1780673178/LuCUEetq_mBo8bzGOGg56g/bemtv/stream409/stream0.m3u8" >> iprustv.m3u
+        echo "Плейлист успешно обновлен актуальным CDN-зеркалом!"
 
     - name: Commit changes
       run: |
@@ -25,5 +25,6 @@ jobs:
         git add iprustv.m3u
         git commit -m "Auto-update TVRUS stream" || exit 0
         git push
+
 
 
