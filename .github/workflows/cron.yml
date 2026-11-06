@@ -2,8 +2,8 @@ name: Auto Update TVRUS
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Запуск каждые 3 часа
-  workflow_dispatch: # Позволяет запускать вручную кнопкой
+    - cron: '0 0 * * *' # Запуск раз в сутки
+  workflow_dispatch: # Кнопка для ручного запуска
 
 jobs:
   update-list:
@@ -11,20 +11,19 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: Create M3U Playlist
+    - name: Download Reliable M3U
       run: |
-        echo "#EXTM3U" > iprustv.m3u
-        echo '#EXTINF:-1 tvg-id="TVRUS.de" tvg-name="TVRUS" group-title="International", TVRUS' >> iprustv.m3u
-        echo "http://213.91.179.28:8000/play/a082" >> iprustv.m3u
-        echo "Плейлист успешно обновлен постоянным спутниковым потоком!"
+        curl -s https://github.io > iprustv.m3u
+        echo "Плейлист успешно скопирован из базы iptv-org!"
 
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add iprustv.m3u
-        git commit -m "Auto-update TVRUS stream to satellite source" || exit 0
+        git commit -m "Sync with iptv-org database" || exit 0
         git push
+
 
 
 
