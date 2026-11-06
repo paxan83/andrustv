@@ -11,18 +11,19 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: Download Reliable M3U
+    - name: Download Reliable M3U via CDN
       run: |
-        wget -qO iprustv.m3u "https://github.io"
-        echo "Плейлист успешно скачан через wget!"
+        wget -qO iprustv.m3u "https://jsdelivr.net"
+        echo "Плейлист успешно скачан через зеркало CDN!"
 
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add iprustv.m3u
-        git commit -m "Fix download using wget" || exit 0
+        git commit -m "Fix download using jsDelivr CDN" || exit 0
         git push
+
 
 
 
