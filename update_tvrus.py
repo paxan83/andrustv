@@ -13,7 +13,7 @@ try:
         # ВАЖНО: Каждая команда пишется строго с новой строки с правильными заголовками
         m3u_content = f"#EXTM3U\n#EXTINF:-1 tvg-id=\"TVRUS.de\" tvg-name=\"TVRUS\" group-title=\"International\", TVRUS\n{stream_url}\n"
         
-        with open("iprustv2", "w", encoding="utf-8") as f:
+        with open("iprustv.m3u", "w", encoding="utf-8") as f:
             f.write(m3u_content)
         print("Плейлист iprustv.m3u успешно обновлен!")
     else:
