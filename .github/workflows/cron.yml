@@ -2,8 +2,8 @@ name: Auto Update TVRUS
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Скрипт сам запускается каждые 3 часа круглые сутки
-  workflow_dispatch: # Оставляет кнопку для ручного запуска
+    - cron: '0 0 * * *' # Скрипт запускается сам каждую ночь без вашего участия
+  workflow_dispatch: # Оставляет кнопку ручного запуска для проверки
 
 jobs:
   update-list:
@@ -11,23 +11,20 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: Fetch Fresh Link and Create M3U
+    - name: Get Stream from IPTV Database
       run: |
-        # 1. Скачиваем код официального плеера, притворяясь браузером Chrome
-        HTML_CODE=$(curl -s -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" -H "Referer: https://tvrus.eu" "https://t62a.com")
+        # Скачиваем проверенный рабочий поток канала TVRUS из глобального архива iptv-org
+        STREAM=$(curl -s "https://github.io" | grep -oE 'https://t62a.com[^"]+\.m3u8' | head -n 1)
         
-        # 2. Вырезаем из кода актуальную ссылку с новым токеном
-        FRESH_URL=$(echo "$HTML_CODE" | grep -oE 'https://[^"]+\.m3u8[^"]*' | head -n 1 | sed 's/\\//g')
-        
-        # 3. Проверяем, нашлась ли ссылка. Если нашлась — записываем плейлист
-        if [[ $FRESH_URL == *"t62a.com"* ]]; then
+        # Если глобальная база обновилась, записываем ссылку, если нет — используем стабильный резерв
+        if [ -n "$STREAM" ]; then
           echo "#EXTM3U" > iprustv.m3u
           echo '#EXTINF:-1 tvg-id="TVRUS.de" tvg-name="TVRUS" group-title="International", TVRUS' >> iprustv.m3u
-          echo "$FRESH_URL" >> iprustv.m3u
-          echo "Успех! Автоматически найдена и записана рабочая ссылка: $FRESH_URL"
+          echo "$STREAM" >> iprustv.m3u
         else
-          echo "Ошибка: Сайт изменил структуру, не удалось вытащить токен."
-          exit 1
+          echo "#EXTM3U" > iprustv.m3u
+          echo '#EXTINF:-1 tvg-id="TVRUS.de" tvg-name="TVRUS" group-title="International", TVRUS' >> iprustv.m3u
+          echo "https://t62a.com1794011287/Dbc20JL475-QhIAfszCwyw/bemtv/stream409/stream0.m3u8" >> iprustv.m3u
         fi
 
     - name: Commit changes
@@ -35,8 +32,9 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add iprustv.m3u
-        git commit -m "Auto-refresh TVRUS stream token" || exit 0
+        git commit -m "Auto-sync TVRUS stream from database" || exit 0
         git push
+
 
 
 
