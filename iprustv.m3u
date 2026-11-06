@@ -1,3 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVRUS.de" tvg-name="TVRUS" group-title="International", TVRUS
-https://t62a.com1794011287/Dbc20JL475-QhIAfszCwyw/bemtv/stream409/stream0.m3u8
+#EXTINF:0,Смотрим 100% Любовь
+#EXTGRP:International
+https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
+#EXTINF:0,Смотрим 100% Факты
+#EXTGRP:International
+https://stream.smotrim.ru/hls3/fasttv06/playlist_2.m3u8
+#EXTINF:0,Смотрим 100% Классика
+#EXTGRP:International
+https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
+#EXTINF:0,Смотрим 100% Мужское
+#EXTGRP:International
+https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
+#EXTINF:0,Смотрим 100% Праздник
+#EXTGRP:International
+https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
+#EXTINF:0,Смотрим 100% Детское
+#EXTGRP:International
+https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
+#EXTINF:0,Первый канал Европа
+#EXTGRP:International
+https://streaming.televizor-24-tochka.ru/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:International
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/12ed865707c77a12eeecfa3177775684--tvc-res--vd9221_480p_2--tracks-v1a1--mono.m3u8?hls_proxy_host=22b5db40ced763465289cd8236e019fb
+#EXTINF:0,РТР Планета Европа
+#EXTGRP:International
+https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
+#EXTINF:0,РТР Планета Азия
+#EXTGRP:International
+https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
+#EXTINF:0,РТР-Планета Америка
+#EXTGRP:International
+https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8
+#EXTINF:0,РТР-Планета СНГ
+#EXTGRP:International
+https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410
+#EXTINF:0,Смотрим Кино и сериалы
+#EXTGRP:International
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0,Сибирь 24 HD
+#EXTGRP:International
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
+#EXTINF:0,TVRUS PLUS
+#EXTGRP:International
+http://83.228.75.166:8000/play/a0aq
+#EXTINF:0,TVRUS
+#EXTGRP:International
+http://213.91.179.28:8000/play/a082
